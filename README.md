@@ -1,4 +1,4 @@
-# Changing_File_Naming
+# Changing File Naming
 When you start any project that involve data management and version control, it is crucial the protocol you implemented to name and organized the files and folder structures. Nonetheless, changes may occur; you and your team may decide to follow a different guideline for naming and organize your files/folders. This code can be useful in case you face such a situation and need to change your files.
 
 #Original Folder and Name structure
